@@ -6,4 +6,5 @@ This application tells the user about his current timezone and weather of that p
 * CSS
 * Javascript
 
-Also this app uses Icons from [Skycons](https://darkskyapp.github.io/skycons/)
+### API used here [Dark Sky](https://darksky.net/dev)
+This app uses Icons from [Skycons](https://darkskyapp.github.io/skycons/)

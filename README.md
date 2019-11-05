@@ -5,3 +5,4 @@ This application tells the user about his current timezone and weather of that p
 * HTML
 * CSS
 * Javascript
+Also this app uses Icons from [Skycons](https://darkskyapp.github.io/skycons/)
